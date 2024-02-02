@@ -9,3 +9,7 @@
 [cl-volume-renderer](https://github.com/cl-volume-renderer/cl-volume-renderer): Real-time globally progressive volume renderer with setable transfer function and render signed distance field render optimizations.
 
 ![image](https://github.com/somefoo/somefoo/assets/50917034/71530c04-ec3c-42c6-a707-0e3807e5584c)
+
+[Powertrack](https://github.com/somefoo/Powertrack): An application to track the power usage and estimate time remaining on the Pinephone and Pinephone Pro.
+
+<img src='https://user-images.githubusercontent.com/50917034/227714633-4c37c37d-08c9-4cb0-a246-56ffdd1349b2.png' width='100'>
