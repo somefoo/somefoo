@@ -6,7 +6,7 @@
 
 ![image](https://github.com/somefoo/somefoo/assets/50917034/d1176eb7-6c5e-4abc-9c1b-a32cccc0d6de)
 
-[cl-volume-renderer](https://github.com/cl-volume-renderer/cl-volume-renderer): Real-time globally progressive volume renderer with setable transfer function and render signed distance field render optimizations.
+[cl-volume-renderer](https://github.com/cl-volume-renderer/cl-volume-renderer): Real-time globally progressive volume renderer with controllable transfer function and signed distance field render optimizations.
 
 ![image](https://github.com/somefoo/somefoo/assets/50917034/71530c04-ec3c-42c6-a707-0e3807e5584c)
 
